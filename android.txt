@@ -1,0 +1,8 @@
+login activity
+register
+splash
+home
+calculater
+call
+music
+recycle file
